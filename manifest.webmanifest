@@ -1,0 +1,17 @@
+{
+  "name": "Skyline & Scoreboard",
+  "short_name": "Skyline",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c1016",
+  "theme_color": "#0c1016",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "cactus-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
